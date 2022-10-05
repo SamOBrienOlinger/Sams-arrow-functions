@@ -41,9 +41,19 @@ console.log(sumII);
 
 // Implicit Returns
 
+const sayAnything = message => console.log(message);
+
+sayAnything('almost anything');
 
 
+
+almost anything
 
 
 
 // Returning Multiple Lines
+
+
+
+
+
