@@ -30,10 +30,20 @@ console.log(sum);
 
 // Single Line Arrow Function With Parameters
 
+const addTwoNumbersII = (a, b) => (a + b);
 
+let sumII = addTwoNumbersII(3, 3);
 
+console.log(sumII);
+
+6
 
 
 // Implicit Returns
+
+
+
+
+
 
 // Returning Multiple Lines
