@@ -17,11 +17,22 @@ console.log(sum);
 
 // Arrow Function With Parameters
 
+const addTwoNumbers = (a, b) => {
+  
+  return a + b;  
+}
 
+let sum = addTwoNumbers(3,3);
+console.log(sum);
 
+6
 
 
 // Single Line Arrow Function With Parameters
+
+
+
+
 
 // Implicit Returns
 
