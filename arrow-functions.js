@@ -50,6 +50,16 @@ sayAnything('almost anything');
 almost anything
 
 
+or
+
+
+const sayAnythingII = () => console.log("almost everything");
+
+sayAnythingII();
+
+
+almost everything
+
 
 // Returning Multiple Lines
 
