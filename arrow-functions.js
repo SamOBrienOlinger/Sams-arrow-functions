@@ -65,9 +65,9 @@ almost everything
 
 const soManyLines = () => (
 
-   '<p>
+   <p>
      The Cuss you are! 
-   </p>'
+   </p>
 
 )
 
