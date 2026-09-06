@@ -15,6 +15,8 @@ Compare traditional functions with arrow functions, concise bodies and implicit 
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Use Node.js to explore the examples. No npm packages are required.
 
 ```bash
